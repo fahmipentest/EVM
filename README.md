@@ -30,11 +30,8 @@ vm-evm-pentest/
 ├── scripts/
 │   ├── recon.sh               # Automated recon script
 │   └── wp_enum.sh             # WordPress enumeration helper
-├── wordlists/
-│   └── note.md                # Catatan wordlist yang digunakan
 ├── nessus/
 │   └── scan_summary.md        # Ringkasan hasil Nessus scan
-└── screenshots/               # (tempatkan screenshot di sini)
 ```
 
 ---
